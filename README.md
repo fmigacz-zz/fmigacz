@@ -1,4 +1,4 @@
-### ¡Hola y Bienvenidos! Hei og velkommen!
+### ¡Hola y bienvenidos! Hei og velkommen!
 
 👷‍♂️ I am an App Innovation Specialist at Microsoft - guiding customers into speeding up the deployment of features and the deployment frequency.
 
@@ -8,7 +8,7 @@
 
 💬 Reach me on Twitter [@fmigacz](https://twitter.com/fmigacz)
 
-
+:::image type="content" source="../media/brand.png" lightbox="../media/brand.png" alt-text="A Venn diagram with the follwoing three circles: Technology (Cloud Native, microservices, and automation), Practices (Agile, open source, and shift left), and Enablement (modern teams, culture, and incentives). ":::
 <!--
 **fmigacz/fmigacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
