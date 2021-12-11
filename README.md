@@ -8,7 +8,8 @@
 
 💬 Reach me on Twitter [@fmigacz](https://twitter.com/fmigacz)
 
-:::image type="content" source="../media/brand.png" lightbox="../media/brand.png" alt-text="A Venn diagram with the follwoing three circles: Technology (Cloud Native, microservices, and automation), Practices (Agile, open source, and shift left), and Enablement (modern teams, culture, and incentives). ":::
+![A Venn diagram with the follwoing three circles: Technology (Cloud Native, microservices, and automation), Practices (Agile, open source, and shift left), and Enablement (modern teams, culture, and incentives).](../media/brand.png)
+
 <!--
 **fmigacz/fmigacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
